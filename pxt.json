@@ -1,5 +1,5 @@
 {
-    "name": "touch_sensor",
+    "name": "touch_sensor_bareconductive",
     "description": "",
     "dependencies": {
         "core": "*",
